@@ -1,6 +1,8 @@
 # Webelight
 Code for Deploying Webelight Application
 
+https://github.com/lightyagami17/Webelight
+
 # Setup and Configuration
 1. To set up the code, go to a directory and clone this repository.
 
@@ -62,4 +64,4 @@ Code for Deploying Webelight Application
 
 10. To overcome this drawback, I've created a shell script at the workspace, which will perform the deployment operation when someone executes this script. This script is also available in the repository.
 
-9. I've created a diagram of the architecture in draw.io and attached it here.
+11. I've created a diagram of the architecture in draw.io and attached it here.
