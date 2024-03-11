@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  frontend:
+    build: ./frontend  # Build the image from the frontend directory
+    ports:
+      - "3000:3000"
+    # No volume mounting for frontend
+
+  backend:
+    build: ./backend  # Build the image from the backend directory
+    ports:
+      - "3001:3001"
+    # No volume mounting for backend
